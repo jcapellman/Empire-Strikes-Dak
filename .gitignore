@@ -1,0 +1,4 @@
+*.suo
+src/.vs/*
+src/*/bin/Debug/*
+src/*/obj/*
